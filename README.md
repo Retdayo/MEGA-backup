@@ -17,4 +17,5 @@ output_file = f"{output_dir}{favorite_filename}.7z"
 metadata_file = f"{output_dir}backup_metadata.json"  # メタデータを保存するファイル
 ```
 3,`pip install mega.py`
+
 4,`python app.py`
